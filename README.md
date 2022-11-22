@@ -17,10 +17,7 @@
 </div>
 
 ##
-📊 Ferramentas de gerenciamento que tenho familiaridade:
- ><a href="#" alt="#">
-  <img src="https://camo.githubusercontent.com/a95eb8afd7ec4675e0d4888b07848a18ca7a23421d9a8b9e9c61d4c01e984948/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a4952412d3030353243433f7374796c653d666c61742d737175617265266c6f676f3d6a697261?style=flat&labelColor=black"/></a> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=ClickUp&color=7B68EE&logo=ClickUp&logoColor=FFFFFF&label=" style="height: 22px;"/></a> <span style="font-size: 1.5em;">|</span> <a href="#" alt="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=flat&labelColor=black&logo=trello&logoColor=white"/></a>
-</p>
+
 
 ##
 
